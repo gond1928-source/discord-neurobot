@@ -1,0 +1,2 @@
+worker: python
+minecraft__bot.py
