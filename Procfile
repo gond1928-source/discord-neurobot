@@ -1,2 +1,1 @@
-worker: python
-minecraft__bot.py
+worker: python ./minecraft_bot.py
